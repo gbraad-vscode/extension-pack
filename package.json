@@ -1,0 +1,39 @@
+{
+  "name": "extensionpack",
+  "displayName": "gbraad's Extension pack",
+  "description": "gbraad's extensions",
+  "publisher": "gbraad",
+  "author": {
+    "name": "Gerard Braad",
+    "email": "me@gbraad.nl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gbraad-vscode/extension-pack"
+  },
+  "license": "MIT",
+  "icon": "img/icon.png",  
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "gbraad.dotfiles-checker",
+    "gbraad.systemd-universal-manager",
+    "github.codespaces",
+    "github.vscode-github-actions",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vscode.remote-explorer",
+    "ms-vscode.remote-server",
+    "ms-vscode.theme-tomorrowkit",
+    "pomdtr.excalidraw-editor",
+    "tailscale.vscode-tailscale"
+  ]
+}
