@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "icon": "img/icon.png",  
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.98.0"
   },
@@ -22,6 +22,7 @@
   ],
   "extensionPack": [
     "gbraad.dotfiles-checker",
+    "gbraad.dotfiles-tools",
     "gbraad.systemd-universal-manager",
     "github.codespaces",
     "github.vscode-github-actions",
