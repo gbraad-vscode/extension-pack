@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "icon": "img/icon.png",  
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -44,5 +44,8 @@
     "CodeSandbox-io.codesandbox-projects",
     "yzhang.markdown-all-in-one",
     "lostintangent.wikilens"
-  ]
+  ],
+  "devDependencies": {
+    "@types/vscode": "^1.96.0"
+  }
 }
