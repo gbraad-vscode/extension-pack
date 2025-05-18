@@ -13,9 +13,9 @@
   },
   "license": "MIT",
   "icon": "img/icon.png",  
-  "version": "0.1.2",
+  "version": "0.1.5",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.94.0"
   },
   "categories": [
     "Extension Packs"
@@ -27,6 +27,13 @@
     "gbraad.systemd-universal-manager",
     "github.codespaces",
     "github.vscode-github-actions",
+    "ritwickdey.LiveServer",
+    "pomdtr.excalidraw-editor",
+    "tailscale.vscode-tailscale",
+    "gitpod.gitpod-desktop",
+    "CodeSandbox-io.codesandbox-projects",
+    "yzhang.markdown-all-in-one",
+    "lostintangent.wikilens",
     "ms-vscode-remote.remote-containers",
     "ms-vscode-remote.remote-ssh",
     "ms-vscode-remote.remote-ssh-edit",
@@ -35,17 +42,18 @@
     "ms-vscode.remote-explorer",
     "ms-vscode.remote-server",
     "ms-vscode.theme-tomorrowkit",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "ms-vscode.vscode-github-issue-notebooks",
     "ms-vsliveshare.vsliveshare",
-    "ms-vsliveshare.vsliveshare-pack",
-    "ritwickdey.LiveServer",
-    "pomdtr.excalidraw-editor",
-    "tailscale.vscode-tailscale",
-    "gitpod.gitpod-desktop",
-    "CodeSandbox-io.codesandbox-projects",
-    "yzhang.markdown-all-in-one",
-    "lostintangent.wikilens"
+    "ms-vsliveshare.vsliveshare-pack"    
   ],
   "devDependencies": {
-    "@types/vscode": "^1.96.0"
+    "@types/vscode": "^1.94.0"
   }
 }
